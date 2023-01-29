@@ -1,2 +1,2 @@
 /*    /index.html   200
-/blog    https://timtran.info   200
+/blog/*    https://timtran.info/:splat   200

@@ -1,3 +1,2 @@
-/blog/*    https://timtran.info/:splat   200
-/public/*    https://timtran.info/:splat   200
-/assets/*    https://timtran.info/:splat   200
+/    /index.html   200
+/*    https://timtran.info/:splat   200
